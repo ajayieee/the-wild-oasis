@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project 
+Hotel Management Dashboard project.Build with React Query and Supabase.
